@@ -24,3 +24,7 @@ Sublime Snippets for BabelJS
 | `scu→`   | `shouldComponentUpdate(nextProps, nextState) { ... },` |
 | `sst→`   | `this.setState({ ... });` |
 | `state→` | `this.state.` |
+
+
+## Installation
+Drop everything into your Sublime Text 3/Packages/User directory and add the binding from wrap-key-bindings into your User preferences.
