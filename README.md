@@ -27,4 +27,4 @@ Sublime Snippets for BabelJS
 
 
 ## Installation
-Drop everything into your Sublime Text 3/Packages/User directory and add the binding from wrap-key-bindings into your User preferences.
+Drop everything into your <code>Sublime Text 3/Packages/User</code> directory and add the binding from wrap-key-bindings into your User preferences.
